@@ -4,7 +4,7 @@
   "description": "",
   "main": "client.js",
   "dependencies": {
-    "dotenv": "^8.0.0",
+    "dotenv": "^8.6.0",
     "prompt": "^1.0.0",
     "socket.io": "^2.2.0",
     "wait-for-user-input": "^1.0.0"
